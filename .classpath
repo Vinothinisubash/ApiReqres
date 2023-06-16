@@ -25,5 +25,33 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Api10"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Apiass23"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/APIreq"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Blaze"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Blazeapp"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Cylos"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/demo.Katalon"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/facebook"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Katalondemo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MagentoApp"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.demo1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.swag"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Orgcom"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/orgdemo2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/orgswag"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Pro"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Project"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Project1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Project2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/REQ"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ReqAss"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/REQRES"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Reqres2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Reqs3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sagApi"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Sauce1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/swag"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/swagg"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
